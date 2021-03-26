@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8941221515551767459}
   - component: {fileID: 1100963614544017557}
   - component: {fileID: 6021092954088379925}
-  - component: {fileID: 8570307818627952562}
+  - component: {fileID: 2923776465985014488}
   - component: {fileID: 5469933000618863}
   m_Layer: 0
   m_Name: Azulzinho
@@ -103,7 +103,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &8570307818627952562
+--- !u!114 &2923776465985014488
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -112,7 +112,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 4677381722100112482}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c8bb8d1cc5058d04a9192d69682177a8, type: 3}
+  m_Script: {fileID: 11500000, guid: 2651e22351b842040a6b5e5da8babcc0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!50 &5469933000618863
