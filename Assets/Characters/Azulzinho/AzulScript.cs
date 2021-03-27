@@ -19,9 +19,8 @@ public class AzulScript : MonoBehaviour
         if (Input.GetButton("Fire1"))
         {
             this.body.isKinematic = false;
-            this.body.AddForce(new Vector2(0, this.jumpForce));
+            this.body.AddForce(new Vector2(1, this.jumpForce));
         }
-
         this.transform.rotation = Quaternion.Euler(0, 0, body.velocity.y * 3);
     }
 }

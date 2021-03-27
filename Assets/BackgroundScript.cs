@@ -26,8 +26,6 @@ public class BackgroundScript : MonoBehaviour
 
         // Adicionando movimento
         body.velocity = new Vector2(-3, 0);
-        
-
         if (this.name == "background2")
         {
             this.transform.position = new Vector2(screenWidth, 0);
